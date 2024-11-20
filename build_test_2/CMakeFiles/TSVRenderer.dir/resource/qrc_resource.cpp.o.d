@@ -1,2 +1,2 @@
 CMakeFiles/TSVRenderer.dir/resource/qrc_resource.cpp.o: \
-  /Users/maedahiyu/tools/TSVRenderer/TSVRenderer/build_test_2/resource/qrc_resource.cpp
+  /Users/hiyu/Tools/TSVRenderer/tsv_01/build_test_2/resource/qrc_resource.cpp

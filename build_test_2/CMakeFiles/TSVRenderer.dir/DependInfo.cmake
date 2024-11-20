@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/maedahiyu/tools/TSVRenderer/TSVRenderer/build_test_2/resource/qrc_resource.cpp" "CMakeFiles/TSVRenderer.dir/resource/qrc_resource.cpp.o" "gcc" "CMakeFiles/TSVRenderer.dir/resource/qrc_resource.cpp.o.d"
-  "/Users/maedahiyu/tools/TSVRenderer/TSVRenderer/source/main.cpp" "CMakeFiles/TSVRenderer.dir/source/main.cpp.o" "gcc" "CMakeFiles/TSVRenderer.dir/source/main.cpp.o.d"
+  "/Users/hiyu/Tools/TSVRenderer/tsv_01/build_test_2/resource/qrc_resource.cpp" "CMakeFiles/TSVRenderer.dir/resource/qrc_resource.cpp.o" "gcc" "CMakeFiles/TSVRenderer.dir/resource/qrc_resource.cpp.o.d"
+  "/Users/hiyu/Tools/TSVRenderer/tsv_01/source/main.cpp" "CMakeFiles/TSVRenderer.dir/source/main.cpp.o" "gcc" "CMakeFiles/TSVRenderer.dir/source/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
